@@ -1,0 +1,6 @@
+package com.fag.registroprotocolos
+
+import io.flutter.embedding.android.FlutterActivity
+
+class MainActivity: FlutterActivity() {
+}
